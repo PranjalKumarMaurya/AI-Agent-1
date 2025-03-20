@@ -16,6 +16,7 @@
     "@langchain/google-genai": "^0.1.11",
     "@langchain/langgraph": "^0.2.56",
     "dotenv": "^16.4.7",
+    "langchain": "^0.3.19",
     "zod": "^3.24.2"
   }
 }
